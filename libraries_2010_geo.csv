@@ -1,0 +1,351 @@
+Reporting Library Service,Name,Address 1,Address 2,Address 3,Upper Tier Local Authority,Postcode,Type,Year_Permanently_Closed,Year First Opened,lat,lon
+Barking and Dagenham,Fanshawe,Barnmead Road,Dagenham,Essex,Barking and Dagenham,RM9 5DX,Static Library,2010,,51.546894,0.144902
+Barking and Dagenham,Rectory,Rectory Road,Dagenham,Essex,Barking and Dagenham,RM10 9SA,Static Library,2010,,51.539071,0.154182
+Birmingham,Cocks Moors Woods Neighbourhood Library,"Cocks Moors Woods Leisure Centre, Alcester Road South",Birmingham,West Midlands,Birmingham,B14 6ER,Static Library,2010,,52.417256,-1.889529
+Nottingham,Wilford,"Ruddington Lane, Wilford",Nottingham,Nottinghamshire,Nottingham,NG11 7AX,Static Library,2010,,52.92538,-1.157248
+Wigan,Orrell,241 Orrell Road ,Orrell,Greater Manchester,Wigan,WN5 8LY,Static Library,2010,,53.539184,-2.70052
+Blackpool,Bispham,Bispham Road,Blackpool,Lancashire,Blackpool,FY2 0HH,Static Library,2011,,53.848501,-3.038458
+Bradford,Heaton Library,St. Barnabas Village Hall,Bradford,West Yorkshire,Bradford,BD9 4AX,Static Library,2011,,53.817069,-1.785047
+Brent,Neasden,277 Neasden Lane,London,Middlesex,Brent,NW10 1QJ,Static Library,2011,,51.559803,-0.251465
+Brent,Tokyngton,Monks Park,Wembley,Middlesex,Brent,HA9 6JE,Static Library,2011,,51.548233,-0.271755
+Buckinghamshire,Thomas Hickman School,Belgrave Road,Aylesbury,Buckinghamshire,Buckinghamshire,HP19 9HP,Static Library,2011,,51.828068,-0.83686
+Derby,Local Studies,25b Irongate,Derby,Derbyshire,Derby,DE1 3GL,Static Local History Library,2011,,52.924199,-1.478042
+Hartlepool,Foggy Furze,stockton Rd ,Hartlepool,County Durham,Hartlepool,TS25 5BQ,Static Library,2011,,54.670633,-1.218359
+Leeds,Allerton Bywater,"The Old School, Vicars Terrace",Allerton Bywater,West Yorkshire,Leeds,WF10 2DY,Static Library,2011,,53.750043,-1.378765
+Leeds,Armley Heights,36 Heights Drive,Armley,West Yorkshire,Leeds,LS12 3SU,Static Library,2011,,53.79582,-1.614717
+Leeds,Belle Isle,"Aberfield Gate, Belle Isle Road",Leeds,West Yorkshire,Leeds,LS10 3QH,Static Library,2011,,53.757095,-1.527922
+Leeds,Broad Lane,540 Broad Lane,Leeds,West Yorkshire,Leeds,LS28 6PA,Static Library,2011,,53.810495,-1.64927
+Leeds,Holbeck,95-97 Domestic Street,Holbeck,West Yorkshire,Leeds,LS11 9NS,Static Library,2011,,53.785791,-1.560354
+Leeds,Ireland Wood,19 Iveson Approach,Leeds,West Yorkshire,Leeds,LS16 6LJ,Static Library,2011,,53.846014,-1.605443
+Leeds,Kirkstall,26 Kirkstall Lane,Leeds,West Yorkshire,Leeds,LS5 3BH,Static Library,2011,,53.815826,-1.600743
+Leeds,Lofthouse,Carlton Lane,Lofthouse,West Yorkshire,Leeds,WF3 3LJ,Static Library,2011,,53.731423,-1.496438
+Leeds,Osmondthorpe,"81a, Wykebeck Mount",Leeds,West Yorkshire,Leeds,LS9 0JE,Static Library,2011,,53.795601,-1.490842
+Leeds,Richmond Hill,Pontefract Lane,Leeds,West Yorkshire,Leeds,LS9 8QE,Static Library,2011,,53.79295,-1.517258
+Leeds,Swarcliffe,Langbar Road,Swarcliffe,West Yorkshire,Leeds,LS14 5ER,Static Library,2011,,53.822878,-1.443801
+Leeds,Swillington,Wakefield Road,Swillington,West Yorkshire,Leeds,LS26 8DT,Static Library,2011,,53.766299,-1.421155
+Leeds,Swinnow,102a Swinnow Lane,Swinnow,West Yorkshire,Leeds,LS13 4RF,Static Library,2011,,53.800354,-1.642523
+Manchester,Clayton Library,Clayton Street,Clayton,Greater Manchester ,Manchester,M11 4NE,Static Library,2011,,53.484914,-2.180345
+Manchester,Rack House,Yarmouth Drive,Wythenshawe,Greater Manchester ,Manchester,M23 0BT,Static Library,2011,,53.409708,-2.278637
+Richmond Upon Thames,Heathfield Library,Percy Road,Whitton,Middlesex,Richmond Upon Thames,TW2 6JL,Static Library,2011,,51.44496,-0.361741
+Salford,Broughton Library,Bury New Road,Salford,Greater Manchester,Salford,M7 4BQ,Static Library,2011,,53.507041,-2.259762
+Southwark,Rotherhithe Library,Albion Street,Southwark,Surrey,Southwark,SE16 7JD,Static Library,2011,,51.500073,-0.051708
+Stoke-on-Trent,Burslem Library,Queen Street,Stoke-on-Trent,Staffordshire ,Stoke-on-Trent,ST6 3EF,Static Library,2011,,53.044924,-2.197341
+Stoke-on-Trent,Fenton Library,Baker Street,Stoke-on-Trent,Staffordshire ,Stoke-on-Trent,ST4 3AF,Static Library,2011,,52.998322,-2.163305
+Stoke-on-Trent,Haywood Library,High Lane,Tunstall,Staffordshire ,Stoke-on-Trent,ST6 7AB,Static Library,2011,,53.055329,-2.189124
+Stoke-on-Trent,Kingsland Early Years,Eaves Lane,Bucknall,Staffordshire ,Stoke-on-Trent,ST2 9AS,Static Library,2011,,53.025324,-2.13581
+Wakefield,Middlestown,CP School Cross Road ,Wakefield,West Yorkshire,Wakefield,WF4 4QE,Static Library,2011,1979,53.649473,-1.597671
+Wakefield,Outwood,Victoria Street,Wakefield,West Yorkshire,Wakefield,WF1 2NE,Static Library,2011,1983,53.70726,-1.506694
+Wakefield,South Kirkby,White Apron Street,Pontefract,West Yorkshire,Wakefield,WF9 3LD,Static Library,2011,1966,53.593495,-1.320914
+Wakefield,South Pontefract,The Circle,Pontefract,West Yorkshire,Wakefield,WF8 2AY,Static Library,2011,2004,53.686067,-1.299
+Westminster,St. James's Library,62 Victoria Street,London,Middlesex,Westminster,SW1E 6QP,Static Library,2011,,51.497553,-0.137352
+Barking and Dagenham,Markyate,Markyate Road,Dagenham,Essex,Barking and Dagenham,RM8 2LD,Static Library,2012,,51.545703,0.11789
+Barking and Dagenham,Wantz,"Wantz Community Complex, Rainham Road North",Dagenham,Essex,Barking and Dagenham,RM10 7DX,Static Library,2012,,51.553249,0.16029
+Bolton,Astley Bridge,Moss Bank Way,Bolton,Greater Manchester,Bolton,BL1 8NP,Static Library,2012,,53.60129,-2.434165
+Bolton,Castle Hill,"Castle Hill Centre, Castleton Street",Bolton,Greater Manchester,Bolton,BL2 2JW,Static Library,2012,,53.594506,-2.413381
+Bolton,Highfield,Highfield Road,Bolton,Greater Manchester,Bolton,BL4 0RN,Static Library,2012,,53.544971,-2.423688
+Bolton,Oxford Grove,Shepherd Cross Street,Bolton,Greater Manchester,Bolton,BL1 3EJ,Static Library,2012,,53.589291,-2.448741
+City of London,Camomile Street Library,"Camomile Street, The City",London,Greater London,City of London,EC3A 7EX,Static Library,2012,,,
+Doncaster,Carcroft,Skellow Road,Carcroft ,South Yorkshire,Doncaster,DN6 8HF,Static Library,2012,,,
+Dorset,Portland Underhill,28 Fortuneswell,Portland,Dorset,Dorset,DT5 1LP,Static Library,2012,,50.558788,-2.440842
+Greenwich,Ferrier Library,Telemann Square,Kidbrook,,Greenwich,SE3 9YR,Static Library,2012,,,
+Hertfordshire,Central Resources Library,"New Barnfield, Travellers Lane",Hatfield,Hertfordshire,Hertfordshire,AL10 8XG,Static Library,2012,,,
+"Kingston upon Hull, City of",KC Stadium,Walton Street,Hull,East Riding of Yorkshire,"Kingston upon Hull, City of",HU3 6HU,Static Library,2012,,53.745752,-0.368022
+Lewisham,Wavelengths Library,Giffin Street,London ,Greater London,Lewisham,SE8 4RJ,Static Library,2012,,51.47748,-0.023567
+Liverpool,Edge Hill,26 Lodge Lane ,Edge Hill,Merseyside,Liverpool,L8 0QH,Static Library,2012,,53.39829,-2.949891
+Liverpool,Great Homer Street,Great Homer Street,Liverpool,Merseyside,Liverpool,L5 3LQ,Static Library,2012,,53.422335,-2.977709
+Liverpool,Larkhill,Queens Drive ,Liverpool ,Merseyside,Liverpool,L13 0DB,Static Library,2012,,53.428723,-2.923824
+Liverpool,Woolton,88 Allerton Road ,Woolton,Merseyside,Liverpool,L25 7RQ,Static Library,2012,,53.373442,-2.871132
+North Somerset,Backwell,Station Road,Backwell,Somerset,North Somerset,BS48 3NW,Static Library,2012,,51.414765,-2.740741
+North Somerset,Banwell,"6 West Street
+
+",Banwell,Somerset,North Somerset,BS29 6DA,Static Library,2012,,51.328231,-2.865922
+North Tyneside,Coast Road Library,Coast Road,North Shields,Tyne and Wear,North Tyneside,NE29 7PG,Static Library,2012,1961,55.014518,-1.471311
+Plymouth,Stoke Library,21 Albert Road,Plymouth,Devon,Plymouth,PL2 1AB,Static Library,2012,,50.379057,-4.170285
+Sheffield,Limpsfield,Jenkin Avenue,Sheffield,Yorkshire,Sheffield,S9 1AN,Static Library,2012,,53.414152,-1.426679
+Stockport,Dialstone Library,"Dialstone Centre, Lisburn Lane",Offerton,Greater Manchester,Stockport,SK2 7LL,Static Library,2012,1986,,
+Sunderland,Hendon,Toward Road,Sunderland,Tyne and Wear,Sunderland,SR2 8JG,Static Library,2012,,54.895176,-1.374039
+Tameside,Haughton Green,Mancunian Road,Haughton Green,Greater Manchester,Tameside,M34 7NP,Static Library,2012,,53.443281,-2.103644
+Tameside,Hurst,Surrey Street,Ashton-under-Lyne,Greater Manchester,Tameside,OL6 9HN,Static Library,2012,,53.500971,-2.078443
+Tameside,Mottram,Broadbottom Road,Mottram,Greater Manchester,Tameside,SK14 6JA,Static Library,2012,,53.452323,-2.014265
+Tameside,Newton,Talbot Road,Hyde,Greater Manchester,Tameside,SK14 4HH,Static Library,2012,,53.463686,-2.064051
+Wakefield,Flanshaw,Balne Lane,Flanshaw,West Yorkshire,Wakefield,WF2 9AH,Static Library,2012,1956,53.684774,-1.511574
+Wakefield,Kinsley,Wakefield Road ,Pontefract,West Yorkshire,Wakefield,WF9 5AN,Static Library,2012,2007,53.63631,-1.379558
+Wakefield,Wakefield (Balne Lane),"Library Headquarters, Balne Lane ",Wakefield,West Yorkshire,Wakefield,WF2 0DQ,Static Library,2012,1962,,
+Wakefield,Wakefield (Drury Lane),Drury Lane,Wakefield,West Yorkshire,Wakefield,WF1 2DD,Static Library,2012,1905,,
+Warwickshire,Bedworth Heath,Heath Rd,Bedworth,Warwickshire,Warwickshire,CV12 0BN,Static Library,2012,,52.471945,-1.493089
+Warwickshire,Binley Woods,Monks Rd,Binley Woods,Warwickshire,Warwickshire,CV3 2BQ,Static Library,2012,,52.392905,-1.424396
+Warwickshire,Kingsbury,Kingsbury,Kingsbury,Warwickshire,Warwickshire,B78 2HN,Static Library,2012,,52.567807,-1.685508
+Wigan,Abram,8 Vicarage Road,Wigan,Greater Manchester,Wigan,WN2 5QX,Static Library,2012,,53.513556,-2.594399
+Wigan,Beech Hill,1 Buckley Street West,Wigan,Greater Manchester,Wigan,WN6 7PQ,Static Library,2012,,53.556095,-2.645399
+Wiltshire,Trowbridge Reference Library,"Libraries HQ, Bythesea Road",Trowbridge,Wiltshire,Wiltshire,BA14 8BS,Static Library,2012,,51.316535,-2.209581
+Barking and Dagenham,Castle Green,"Jo Richardson School, Gale Street",Dagenham,Essex,Barking and Dagenham,RM9 4UN,Static Library,2013,,51.533335,0.126486
+Barking and Dagenham,Rush Green,Dagenham Road,Rush Green,Essex,Barking and Dagenham,RM7 0TL,Static Library,2013,,51.563918,0.176177
+Birmingham,Birmingham Central,Chamberlain Square,Birmingham,West Midlands,Birmingham,B3 3HQ,Static Library,2013,,,
+Brent,Town Hall,Brent Town Hall,Wembley,Middlesex,Brent,HA9 9HU,Static Library,2013,,,
+"Bristol, City of",Trinity Road,Trinity Road,St Judes,Bristol,"Bristol, City of",BS2 0NW,Static Library,2013,,51.458642,-2.5764
+Camden,Regent's Park,Robert Street,London,Greater London,Camden,NW1 3QT,Static Library,2013,,51.528392,-0.14261
+Cheshire West and Chester,Saughall Library,"Vernon Institute, Church Lane",Saughall,Cheshire,Cheshire West and Chester,CH1 6EN,Static Library,2013,,53.223752,-2.95838
+Dorset,Dorchester,Colliton Park,Dorchester,Dorset,Dorset,DT1 1XJ,Static Library,2013,,50.716714,-2.440681
+Harrow,Civic Centre,Station Road,Harrow,Greater London ,Harrow,HA1 2XY,Static Library,2013,,51.590362,-0.335192
+Newcastle Upon Tyne,Moorside Library,"Moorside School, Beaconsfield Road",Newcastle upon Tyne,Tyne and Wear ,Newcastle Upon Tyne,NE4 5AW,Static Library,2013,1983,54.976964,-1.635694
+North Lincolnshire,Westcliff Library,Swinburne Road,Scunthorpe,North Lincolnshire,North Lincolnshire,DN17 1PT,Static Library,2013,,53.571616,-0.67771
+North Tyneside,Whitley Bay Library,Park Road,Whitley Bay,Tyne and Wear,North Tyneside,NE26 1EJ.,Static Library,2013,1966,,
+Sefton,Aintree,Altway,Aintree,Merseyside,Sefton,L10 6LF,Static Library,2013,1961,53.482873,-2.937493
+Sefton,Birkdale,240-244 Liverpool Road,Birkdale ,Merseyside,Sefton,PR8 4PD,Static Library,2013,1974,53.621122,-3.014212
+Sefton,Churchtown,Mill Lane,Churchtown,Merseyside,Sefton,PR9 7PL,Static Library,2013,1920,53.655784,-2.966171
+Sefton,College Road,College Road,Great Crosby,Merseyside,Sefton,L23 3DP,Static Library,2013,1905,53.486153,-3.032496
+Sefton,Litherland,Linacre Road,Litherland,Merseyside,Sefton,L21 6NR,Static Library,2013,1937,53.466949,-3.000155
+Sefton,Orrell,Linacre Lane,Orrell,Merseyside,Sefton,L20 6ES,Static Library,2013,1955,53.462646,-2.978093
+Sefton,Ainsdale,Liverpool road,Ainsdale,Merseyside,Sefton,PR8 4PD,Static Library,2013,1929,53.621122,-3.014212
+Sunderland,Doxford Park,Mill Hill Road,Sunderland,Tyne and Wear,Sunderland,SR3 2ND,Static Library,2013,,54.867358,-1.414513
+Sunderland,Easington Lane,High Street,Sunderland,Tyne and Wear,Sunderland,DH5 0JW,Static Library,2013,,54.808507,-1.437425
+Sunderland,East Herrington,Atlantis Road,Sunderland,Tyne and Wear,Sunderland,SR3 3PF,Static Library,2013,,54.875837,-1.434291
+Sunderland,Fence Houses,Britannia Terrace,Fence Houses,Tyne and Wear,Sunderland,DH4 6HL,Static Library,2013,,54.842607,-1.500436
+Sunderland,Monkwearmouth,Church Street North,Sunderland,Tyne and Wear,Sunderland,SR6 0DR,Static Library,2013,,54.915179,-1.3773
+Sunderland,Silksworth,Beckwith Mews,Silksworth,Tyne and Wear,Sunderland,SR3 1HN,Static Library,2013,,54.874213,-1.403131
+Sunderland,Southwick,Beaumont Street,Sunderland,Tyne and Wear,Sunderland,SR5 2JR,Static Library,2013,,54.921048,-1.402703
+Sunderland,Washington Green,The Green,Washington,Tyne and Wear,Sunderland,NE38 7AB,Static Library,2013,,54.903625,-1.516087
+Sutton,Carshalton Library,The Square,Carshalton,Greater London,Sutton,SM5 3BN,Static Library,2013,,51.364239,-0.161484
+Trafford,Greatstone,Greatstone Road,Stretford,Greater Manchester,Trafford,M32 0ZS,Static Library,2013,,53.458347,-2.292675
+Barnsley,Central,Shambles Street,Barnsley ,South Yorkshire,Barnsley,S70 2JF,Static Library,2014,1975,,
+Bromley,Anerley Library,"Anerley Town Hall, Anerley Road",Bromley,Greater London,Bromley,SE20 8BD,Static Library,2014,,51.412115,-0.067501
+East Riding Of Yorkshire,Anlaby,North Street,Anlaby,East Riding of Yorkshire,East Riding Of Yorkshire,HU10 7DE,Static Library,2014,,53.746746,-0.433147
+Luton,Sundon Park,Hill Rise,Luton,Bedfordshire,Luton,LU3 3EE,Static Library,2014,,51.916271,-0.466108
+Luton,Wigmore,Wigmore Lane,Luton,Bedfordshire,Luton,LU2 8DJ,Static Library,2014,,,
+Manchester,Crumpsall & Cheetham Library,Cheetham Hill Road,Crumpsall,Greater Manchester ,Manchester,M8 9JN,Static Library,2014,,53.51146,-2.244317
+North East Lincolnshire,Nunsthorpe Library,"Nunsthorpe Community Campus, Sutcliffe Avenue ",Grimsby,NE Lincolnshire,North East Lincolnshire,DN33 1AW,Static Library,2014,,53.549799,-0.103016
+North East Lincolnshire,Willows Library,Binbrook Way,Grimsby ,NE Lincolnshire,North East Lincolnshire,DN37 9AS,Static Library,2014,,53.568792,-0.12568
+North Tyneside,Wallsend Library,Ferndale Avenue,Wallsend,Tyne and Wear,North Tyneside,NE28 7NB,Static Library,2014,1966,,
+Rochdale,Wheatsheaf Library,"Wheatsheaf Centre, Baillie Street ",Rochdale,Greater Manchester,Rochdale,OL16 1JZ,Static Library,2014,1992,53.618498,-2.155639
+Stockton-on-Tees,Billingham Library,Bedale Avenue,Billingham,Stockton-on-Tees,Stockton-on-Tees,TS23 1AJ,Static Library,2014,,54.596608,-1.289752
+Stockton-on-Tees,Rosebery Library,The Causeway,Billingham,Stockton-on-Tees,Stockton-on-Tees,TS23 2LB,Static Library,2014,,,
+Stockton-on-Tees,Roseworth Library,Redhill Road,Stockton,Stockton-on-Tees,Stockton-on-Tees,TS19 9BX,Static Library,2014,,54.58806,-1.342002
+Stockton-on-Tees,Thornaby Library,Westbury Street,Thornaby,Stockton-on-Tees,Stockton-on-Tees,TS17 6PG,Static Library,2014,,54.554886,-1.29966
+Stoke-on-Trent,Trentham Library,Trently Road,Stoke-on-Trent,Staffordshire ,Stoke-on-Trent,ST4 8PH,Static Library,2014,,52.969439,-2.193601
+Barnsley,Kendray,Thornton Road,Barnsley,South Yorkshire,Barnsley,S70 3NG,Static Library,2015,2000,53.541997,-1.455603
+Bradford,Girlington Library,Willow Street,Bradford,West Yorkshire,Bradford,BD8 9LT,Static Library,2015,,53.800092,-1.785847
+Bury,Sedgley Park library,St Gabriel's Church Community Room,Prestwich,Greater Manchester,Bury,M25 0HT,Static Library,2015,,53.520825,-2.265789
+Bury,South Cross Street library,90 South Cross Street,Bury ,Greater Manchester,Bury,BL9 0RS,Static Library,2015,,53.59045,-2.288675
+Cornwall,Roche Micro,Threemilestone,Truro,Cornwall,Cornwall,TR4 9LD,Static Library,2015,,50.261693,-5.123058
+Greenwich,East Greenwich Library,Woolwich Road,East Greenwich,,Greenwich,SE10 0RL,Static Library,2015,,51.486558,0.016306
+Hampshire,Grayshott,Headley Road,Grayshott,Hampshire,Hampshire,GU26 6TZ,Static Library,2015,,51.110537,-0.748095
+Harrow,Bob Lawrence,"6-8 North Parade, Mollison Way",Edgware,Greater London ,Harrow,HA8 5QH,Static Library,2015,,51.598152,-0.278668
+Harrow,Hatch End,Uxbridge Road,Hatch End,Greater London ,Harrow,HA5 4EA,Static Library,2015,,51.608479,-0.362504
+Harrow,Rayners Lane,226 Imperial Drive,Harrow,Greater London ,Harrow,HA2 7HJ,Static Library,2015,,51.576249,-0.370157
+Lancashire,Wheatley Lane,Wheatley Close,Fence,Lancashire ,Lancashire,BB12 9QH,Static Library,2015,,53.833454,-2.259747
+Leeds,Methley Library,Saville Road,Methley,West Yorkshire,Leeds,LS26 9HS,Static Library,2015,,53.738941,-1.397743
+Lincolnshire,Skellingthorpe,Church Road,Skellingthorpe,Lincolnshire,Lincolnshire,LN6 5UW,Static Library,2015,,53.236005,-0.616899
+Lincolnshire,Tattershall Coningsby,High Street,Coningsby,Lincolnshire,Lincolnshire,LN4 4RB,Static Library,2015,,53.105933,-0.175514
+Lincolnshire,Washingborough,School Lane,Lincoln,Lincolnshire,Lincolnshire,LN4 1BW,Static Library,2015,,53.223471,-0.470851
+Manchester,Higher Blackley Library,Victoria Avenue,High Blackley,Greater Manchester ,Manchester,M9 0RA,Static Library,2015,,53.533686,-2.222735
+Manchester,Hulme Library,Hulme Walk,Manchester ,Greater Manchester ,Manchester,M15 5FQ,Static Library,2015,,,
+Medway,Strood Library,32 Bryant Road,Strood,Kent,Medway,ME2 3EP,Static Library,2015,,51.397532,0.49068
+Salford,Swinton Library,Chorley Road,Swinton,Greater Manchester,Salford,M27 6BP,Static Library,2015,,,
+Solihull,Smith's Wood Neighbourhood Library,Burtons Way,Birmingham,West Midlands,Solihull,B36 0SZ,Static Library,2015,,52.503281,-1.747931
+South Tyneside,Hebburn,Station Road,Hebburn,Tyne and Wear,South Tyneside,NE31 1PN,Static Library,2015,,54.973847,-1.519321
+Southend,Friars,Constable Way,Shoeburyness ,Essex,Essex,SS3 9UU,Static Library,2015,,51.539398,0.793685
+Southend,Thorpedene,Delaware Road,Southend-on-Sea,Essex,Essex,SS3 9NW,Static Library,2015,,51.535625,0.770351
+Swindon,Blunsdon Community Book Collection,"Blunsdon Village Hall, High Street, Blunsdon",Blunsdon,Wiltshire,Swindon,SN26 7AR,Static Library,2015,2014,51.614056,-1.782367
+Trafford,Bowfell,"Urmston Leisure Centre, Bowfell Road",Urmston,Greater Manchester,Trafford,M41 5RR,Static Library,2015,,53.451021,-2.370201
+Trafford,Davyhulme,Hayeswater Road,Davyhulme,Greater Manchester,Trafford,M41 7BL,Static Library,2015,,53.455639,-2.359354
+Birmingham,West Heath Library,The Fordrough ,Birmingham,West Midlands,Birmingham,B31 3LX,Static Library,2016,,52.400561,-1.959956
+"Bristol, City of",Eastville,Muller Road,Eastville,Bristol,"Bristol, City of",BS5 6XP,Static Library,2016,,51.476183,-2.567664
+Bury,New Kershaw Centre Library,"New Kershaw Centre, Deal Street",Bury,Greater Manchester,Bury,BL9 7PZ,Static Library,2016,,53.595165,-2.278766
+Cheshire West and Chester,Bishops' High Library,Vaughans Lane,Chester,Cheshire,Cheshire West and Chester,CH3 5XF,Static Library,2016,,53.184343,-2.864393
+Cheshire West and Chester,Elton Library,Elton Community Centre,Elton,Cheshire,Cheshire West and Chester,CH2 4PU,Static Library,2016,,53.270571,-2.819301
+Cheshire West and Chester,Willaston Library,"Willaston Methodist Church, Neston Road",Willaston,Cheshire,Cheshire West and Chester,CH64 2TL,Static Library,2016,,53.29285,-3.00867
+Coventry,Arena Park,"Arena Park Shopping Centre, Classic Drive",Rowley's Green,West Midlands,Coventry,CV6 6AS,Static Library,2016,,52.444469,-1.492507
+Cumberland,Thornhill Library,Ehen Road,Thornhill,Cumbria,Cumberland,CA22 2SJ,Static Library,2016,,54.464724,-3.527613
+Gateshead,Lobley Hill (Book Collection),"Lobley Hill Community Centre, Scafell Gardens",Lobley Hill,Tyne and Wear,Gateshead,NE11 9LS,Static Library,2016,,54.942003,-1.636992
+Kirklees,Lepton Library,Highgate Lane ,Huddersfield,West Yorkshire,Kirklees,HD8 0HB,Static Library,2016,,53.633099,-1.710912
+Kirklees,Thornhill Lees Library,Brewery Lane,Dewsbury,West Yorkshire,Kirklees, WF12 9DU,Static Library,2016,,53.672445,-1.636838
+Lancashire,Briercliffe,Jubilee Street,Burnley    ,Lancashire ,Lancashire,BB10 2JD,Static Library,2016,,53.812563,-2.200616
+Lancashire,Chatsworth,Chatsworth Avenue,Fleetwood,Lancashire ,Lancashire,FY7 8EG,Static Library,2016,,53.913763,-3.035432
+Lancashire,Northfleet,Northfleet Avenue,Fleetwood,Lancashire ,Lancashire,FY7 7ND,Static Library,2016,2013,53.911429,-3.030914
+Lancashire,Read,41 Whalley Road,Burnley,Lancashire ,Lancashire,BB12 7PB,Static Library,2016,,53.806286,-2.353421
+Lancashire,Rosegrove,Lowerhouse Lane,Burnley,Lancashire ,Lancashire,BB12 6HU,Static Library,2016,,53.789589,-2.281378
+Leeds,Burley Library,Cardigan Road,Leeds,West Yorkshire,Leeds,LS6 1QL,Static Library,2016,,53.807289,-1.575056
+Manchester,Levenshulme Library,Cromwell Grove,Manchester,Greater Manchester ,Manchester,M19 3QE,Static Library,2016,,53.44505,-2.186936
+Oxfordshire,Children's Mobile North,[Unknown],,,Oxfordshire,[Unknown],Mobile Library,2016,,,
+Oxfordshire,Children's Mobile Sorth,[Unknown],,,Oxfordshire,[Unknown],Mobile Library,2016,,,
+Oxfordshire,East Mobile,[Unknown],,,Oxfordshire,[Unknown],Mobile Library,2016,,,
+Oxfordshire,North Mobile,[Unknown],,,Oxfordshire,[Unknown],Mobile Library,2016,,,
+Oxfordshire,South Mobile,[Unknown],,,Oxfordshire,[Unknown],Mobile Library,2016,,,
+Oxfordshire,West Mobile,[Unknown],,,Oxfordshire,[Unknown],Mobile Library,2016,,,
+Shropshire,Shawbury,"Parish Hall, Church Street",Shawbury,Shropshire,Shropshire,SY4 4NH,Static Library,2016,,52.786837,-2.655288
+Slough,Central Library,85 A332,Slough,Berkshire,Slough,SL1 1EA,Static Library,2016,,,
+South Tyneside,Chuter Ede Library Access Point,Galsworthy Road,South Shields,Tyne and Wear,South Tyneside,NE34 9UG,Static Library,2016,,54.960583,-1.439411
+Stockton-on-Tees,Ragworth Neighbourhood Centre Library,St. John's Way,Stockon,Stockton-on-Tees,Stockton-on-Tees,TS19 0FB,Static Library,2016,,54.580987,-1.32567
+Sutton,Beddington Library,The Broadway,Beddington,Greater London,Sutton,CR0 4QR,Static Library,2016,,51.367277,-0.131825
+Telford and Wrekin,Dawley,"Phoenix Academy, Duce Drive","Dawley, Telford",Shropshire,Telford and Wrekin,TF4 3JS,Static Library,2016,,52.66315,-2.464475
+Barnet,Church End,24 Hendon Lane,London,Greater London,Barnet,N3 1SA,Static Library,2017,,51.599079,-0.197744
+Birmingham,Kents Moat Library,55-57 Poolway,Birmingham,West Midlands,Birmingham,B33 8NF,Static Library,2017,,,
+"Bristol, City of",Cheltenham Road,Cheltenham Road,,Bristol,"Bristol, City of",BS6 5QX,Static Library,2017,,51.468067,-2.59234
+"Bristol, City of",Lawrence Weston,Ridingleaze House,Lawrence Weston,Bristol,"Bristol, City of",BS11 0QE,Static Library,2017,,51.501369,-2.658671
+Bury,Ainsworth Library,Church Street,Bury,Greater Manchester,Bury,BL2 5RT,Static Library,2017,,53.587945,-2.357318
+Bury,Brandlesholme Community Centre & Library,Brandlesholme Road,Bury,Greater Manchester,Bury,BL8 1HS,Static Library,2017,2010,53.608687,-2.313602
+Bury,Castle Leisure Centre Library,Bolton Street,Bury,Greater Manchester,Bury,BL9 0EZ,Static Library,2017,,53.593061,-2.301294
+Bury,Coronation Road Community Centre & Library,Westminster Avenue,Bury,Greater Manchester,Bury,M26 3WD,Static Library,2017,2010,53.567318,-2.347571
+Bury,Dumers Lane Community Centre & Library,245 Dumers Lane,Bury,Greater Manchester,Bury,M26 2GN,Static Library,2017,2010,53.570154,-2.303275
+Bury,Moorside Community Centre & Library,Parkinson Street,Bury,Greater Manchester,Bury,BL9 6NY,Static Library,2017,2010,53.607189,-2.294729
+Bury,Topping Fold Community Centre & Library,36 Topping Fold Road,Bury,Greater Manchester,Bury,BL9 7NG,Static Library,2017,,53.596833,-2.26894
+Bury,Unsworth Library,Sunnybank Road ,Bury,Greater Manchester,Bury,BL9 8ED,Static Library,2017,,53.562012,-2.284345
+Bury,Whitefield Library & Adult Learning Centre,Pinfold Lane,Bury,Greater Manchester,Bury,M45 7NY,Static Library,2017,,53.547246,-2.29484
+Calderdale,Halifax Central Library (Old building),Northgate,Halifax,West Yorkshire,Calderdale,HX1 1UN,Static Library,2017,,53.724288,-1.859051
+Cheshire West and Chester,Chester Library,Northgate Street,Chester,Cheshire,Cheshire West and Chester,CH1 2EF,Static Library,2017,,,
+Cornwall,Bodmin Library and One Stop Shop,Lower Bore Street,Bodmin,Cornwall,Cornwall,PL31 2JX,Static Library,2017,,50.471378,-4.724331
+Cornwall,Nanpean Micro,"The Grenville Arms, Fore Street",St. Austell,Cornwall,Cornwall,PL26 7YE,Static Library,2017,,50.368972,-4.869565
+Cornwall,St. Keverne Library,St. Keverne Primary School,Helston,Cornwall,Cornwall,TR12 6NQ,Static Library,2017,,50.04955,-5.086387
+Cumberland,Petteril Bank House Library Link,"Lady Gillford's house, Petteril Bank Road",Carlisle,Cumbria,Cumberland,CA1 3AJ,Static Library,2017,2012,54.874941,-2.910422
+Cumberland,St. Bees Book Drop,"St. Bees Village School, Main Street",St. Bees,Cumbria,Cumberland,CA27 0AA,Static Library,2017,,54.49021,-3.589299
+Gateshead,Sunderland Road,Herbert Street,Gateshead,Tyne and Wear,Gateshead,NE8 3PA,Static Library,2017,,,
+Islington,John Barnes Library,"Pangbourne House, Camden Road",London,Middlesex,Islington,N7 0BD,Static Library,2017,,51.550939,-0.125796
+Medway,Thomas Aveling School & Community Library,Arethusa Road,Rochester,Kent,Medway,ME1 2UW,Static Library,2017,,51.36416,0.502762
+Northumberland,Cowpen,"Community College, Chase Farm Drive",Blyth,Northumberland,Northumberland,NE24 4JP,Static Library,2017,,55.123646,-1.547617
+Nottingham,Bakersfield Library,Watson Avenue,Nottingham,Nottinghamshire,Nottingham,NG3 7BN,Static Library,2017,,52.961604,-1.113444
+Nottingham,Sneinton Library,Sneinton Boulevard,Nottingham,Nottinghamshire,Nottingham,NG2 4FD,Static Library,2017,,52.950462,-1.126338
+Plymouth,Eggbuckland Library,"Eggbuckland College, Westcott Close ",Plymouth,Devon,Plymouth,PL6 5YB,Static Library,2017,,50.397854,-4.123611
+Plymouth,Ernesettle Library,3 Hornchurch Road,Plymouth,Devon,Plymouth,PL5 2TQ,Static Library,2017,,50.418729,-4.179096
+Plymouth,Laira Library,240 Old Laira Road,Plymouth,Devon,Plymouth,PL3 6AF,Static Library,2017,,50.383768,-4.10679
+Plymouth,Tothill Library,"Tothill Community Centre, Knighton Road",Plymouth,Devon,Plymouth,PL4 9DA,Static Library,2017,,50.373362,-4.120126
+St. Helens,Central Library,Victoria Square,St. Helens,Merseyside,St. Helens,WA10 1DY,Static Library,2017,,53.453596,-2.734679
+Stockton-on-Tees,Egglescliffe Library,Butterfield Drive,Eaglescliffe,Stockton-on-Tees,Stockton-on-Tees,TS16 0EL,Static Library,2017,,54.519987,-1.357895
+Sunderland,Bunny Hill,Hylton Lane,Sunderland,Tyne and Wear,Sunderland,SR5 4BW,Static Library,2017,,54.926597,-1.447233
+Sunderland,Ryhope,Black Road,Sunderland,Tyne and Wear,Sunderland,SR2 0RX,Static Library,2017,,54.871306,-1.368471
+Sunderland,Sandhill,Grindon Lane,Sunderland,Tyne and Wear,Sunderland,SR3 4EN,Static Library,2017,,54.888194,-1.428849
+Sunderland,Shiney Row,Chester Road,Shiney Row,Tyne and Wear,Sunderland,DH4 4RB,Static Library,2017,,54.866423,-1.498724
+Swindon,Walcot Library,"Unit 5 Sussex Place, Somerville Road",Swindon,Wiltshire,Swindon,SN3 3BL,Static Library,2017,2015,51.560318,-1.761448
+Telford and Wrekin,Telford & Wrekin Mobile Library,"c/o Wellington Library, Larkin Way","Wellington, Telford",Shropshire,Telford and Wrekin,TF1 1LX,Mobile Library,2017,,52.699946,-2.51873
+Walsall,Beechdale Library,"Community Centre, Stephenson Square ",Walsall,West Midlands ,Walsall,WS2 7DX,Static Library,2017,,52.601521,-2.008161
+Walsall,Blakenall Library,"Blakenall Village Centre, Thames Road",Bloxwich,West Midlands ,Walsall,WS3 1LZ,Static Library,2017,,52.61469,-1.986703
+Walsall,New Invention Library,"The Square, Lichfield Road ",Willenhall,West Midlands ,Walsall,WV12 5EA,Static Library,2017,,52.612744,-2.03705
+Walsall,Rushall Library,Pelsall Lane ,Rushall,West Midlands ,Walsall,WS4 1NL,Static Library,2017,,52.608643,-1.960656
+Walsall,South Walsall Library,West Bromwich Road ,Walsall,West Midlands ,Walsall,WS5 4NW,Static Library,2017,,52.566989,-1.979843
+Walsall,Walsall Wood Library,Coppice Road,Walsall Wood,West Midlands ,Walsall,WS9 9BL,Static Library,2017,,52.628624,-1.931622
+Bath and North East Somerset,Chew Stoke Community Library,Stoke Inn,Chew Stoke,Somerset,Bath and North East Somerset,BS40 8XE,Static Library,2018,,51.352258,-2.63417
+Cornwall,Ladock Micro,The Falmouth Arms,Truro,Cornwall,Cornwall,TR2 4PG,Static Library,2018,,50.320584,-4.962121
+Cornwall,Par Library,"Hamley's Corner, Eastcliffe Road",Par,cornwall,Cornwall,PL24 2AH,Static Library,2018,,50.352954,-4.700126
+Cornwall,St. Blazey Micro,"The Four Lords, St. Austell Road",Par,Cornwall,Cornwall,PL24 2EE,Static Library,2018,,50.350848,-4.727898
+Cumberland,Ennerdale Book Drop,The Gather,Ennerdale Bridge,Cumbria,Cumberland,CA23 3AR,Static Library,2018,2014,54.528953,-3.4387
+Cumberland,Hensingham Library,Richmond Hill Road,Hensingham,Cumbria,Cumberland,CA28 8SU,Static Library,2018,,54.536998,-3.562493
+Cumberland,Kells Library,High Road,Kells,Cumbria,Cumberland,CA28 9PQ,Static Library,2018,,54.535009,-3.596466
+Cumberland,Mirehouse Library,Meadow Road,Mirehouse,Cumbria,Cumberland,CA28 8ER,Static Library,2018,,54.525901,-3.571386
+Cumberland,Upperby,"Upperby Primary School, Uldale Road",Carlisle,Cumbria,Cumberland,CA2 4JT,Static Library,2018,,54.874271,-2.923077
+Derby,Derby Central,The Wardwick,Derby,Derbyshire,Derby,DE1 1HS,Static Library,2018,,,
+Derby,Pear Tree,Pear Tree Road,Derby,Derbyshire,Derby,DE23 8NQ,Static Library,2018,,52.905165,-1.475341
+Dudley,Woodside Library Link,Highgate Road,Dudley,West Midlands,Dudley,DY2 0SN,Static Library,2018,,52.49638,-2.106534
+East Sussex,Hastings Children's Library,Robertson Passage (Off Robertson Street) ,Hastings,East Sussex,East Sussex,TN34 1HL,Static Library,2018,,50.85521,0.578001
+East Sussex,Mayfield Library,"Mayfield CofE School, Fletching Street",Mayfield,East Sussex,East Sussex,TN20 6TA,Static Library,2018,,51.020687,0.262848
+East Sussex,Polegate Library,Windsor Way,Polegate,East Sussex,East Sussex,BN26 6QF,Static Library,2018,,50.824784,0.245537
+Hampshire,Gosport Naval & Local Studies,High Street,Gosport,Hampshire,Hampshire,PO12 1NS,Static Library,2018,,50.79505,-1.125344
+"Kingston upon Hull, City of",Holderness Road Customer Service Centre Library,"1 The Mount, Holderness Road",Hull,East Riding of Yorkshire,"Kingston upon Hull, City of",HU9 2AH,Static Library,2018,,,
+Leicestershire,Barwell,"George Ward Centre, Church Lane",Leicester,Leicestershire,Leicestershire,LE9 8DG,Static Library,2018,,52.565178,-1.344146
+Lincolnshire,Burgh le Marsh,"Old School House, High Street, Burgh le Marsh",Lincolnshire,,Lincolnshire,PE24 5JS,Static Library,2018,,53.161636,0.244574
+Lincolnshire,Holbeach,"Church Street, Holbeach",Lincolnshire,,Lincolnshire,PE12 7LL,Static Library,2018,,52.802736,0.0134
+Lincolnshire,Welton,"Cliff Road, Welton",Lincoln,,Lincolnshire,LN2 3JJ,Static Library,2018,,53.306229,-0.486253
+North Somerset,Long Ashton,Lovelinch Gardens,Long Ashton,Somerset,North Somerset,BS4 9AH,Static Library,2018,,,
+Redbridge,Uphall School Library,Uphall Road,Ilford,Greater London,Redbridge,IG1 2JD,Static Library,2018,,51.547977,0.072157
+South Tyneside,Jarrow,Cambrian Street,Jarrow,Tyne and Wear,South Tyneside,NE32 3QN,Static Library,2018,,54.981374,-1.485418
+South Tyneside,Primrose Library,Glasgow Road,Jarrow,Tyne and Wear,South Tyneside,NE32 4AU,Static Library,2018,,54.965428,-1.469753
+Southwark,Newington Library,155 Walworth Road,Southwark,Surrey,Southwark,SE17 1RS,Static Library,2018,,51.490823,-0.096788
+Stoke-on-Trent,Abbey Hulton (Book Collection),Greasley Road,Abbey Hulton ,Staffordshire ,Stoke-on-Trent,ST2 8JE,Static Library,2018,,53.03507,-2.141895
+Stoke-on-Trent,Ball Green (book collection),121 Wilding Road,Stoke-on-Trent,Staffordshire ,Stoke-on-Trent,ST6 8BQ,Static Library,2018,,53.07093,-2.167819
+Stoke-on-Trent,Fenton Hub (Book Collection),28a Christchurch Street,Fenton,Staffordshire ,Stoke-on-Trent,ST4 3AN,Static Library,2018,,52.996264,-2.162984
+Stoke-on-Trent,Northwood Stadium (Book Collection),Keelings Road,Stoke-on-Trent,Staffordshire ,Stoke-on-Trent,ST1 6PA,Static Library,2018,,53.030366,-2.164932
+Stoke-on-Trent,Oakwood Hub (Book Collection),Oakwood Road,Blurton,Staffordshire ,Stoke-on-Trent,ST3 3AR,Static Library,2018,,52.97991,-2.158246
+Stoke-on-Trent,Wallace Sport & Education Centre (Book Collection),Abbots Road,Stoke-on-Trent,Staffordshire ,Stoke-on-Trent,ST2 8DU,Static Library,2018,,53.03767,-2.139741
+Stoke-on-Trent,Whitfield Valley (Book Collection),Fegg Hayes Road,Stoke-on-Trent,Staffordshire ,Stoke-on-Trent,ST6 6QR,Static Library,2018,,53.073735,-2.185413
+Westmorland and Furness,Barrow Island Library Link,"Barrow Island CDC, Island Road",Barrow-in-Furness,Cumbria,Westmorland and Furness,LA14 2SR,Static Library,2018,,54.103817,-3.228743
+Wokingham,Maiden Erlegh,"Maiden Erleigh School, Silverdale Road",Reading,Berkshire,Wokingham,RG6 7HS,Static Library,2018,,51.437281,-0.925224
+York,Sycamore House Reading Cafe,30 Clarence Street,York,North Yorkshire,York,YO31 7EW,Static Library,2018,2013,53.967011,-1.081989
+Barnet,East Barnet,85 Brookhill Road,East Barnet,Greater London,Barnet,EN4 8SG,Static Library,2019,,51.644405,-0.161533
+Bradford,Lees Library,[Unknown],,,Bradford,BD22 9DL,Static Library,2019,,53.835264,-1.934946
+Bradford,Oxenhope Library,[Unknown],,,Bradford,BD22 9LJ,Static Library,2019,,53.811571,-1.952477
+Calderdale,Bailiff Bridge,Devon Way,Brighouse,West Yorkshire,Calderdale,HD6 4DT,Static Library,2019,,53.720375,-1.779038
+Calderdale,Walsden Library,Inchfield Road,Walsden,West Yorkshire,Calderdale,OL14 7SN,Static Library,2019,,53.693931,-2.100279
+Cornwall,Fowey Library & Information Service,"Caffa Mill House, 2 Passage Lane",Fowey,Cornwall,Cornwall,PL23 1JS,Mobile Library,2019,,50.341759,-4.645966
+Cornwall,Goldsithney Micro,"The Crown, Fore Street",Penzance,Cornwall,Cornwall,TR20 9LG,Static Library,2019,,50.125352,-5.436765
+Cornwall,Lerryn Micro,"The Ship Inn, Fore Street",Nr Lostwithiel,Cornwall,Cornwall,PL22 0PT,Static Library,2019,,50.382857,-4.617809
+Cornwall,Padstow Library,Hill Street,Padstow,Cornwall,Cornwall,PL28 8EB,Mobile Library,2019,,50.540049,-4.939352
+Cornwall,Porkellis Micro,"The Star, Porkellis",Helston,Cornwall,Cornwall,TR13 0JR,Static Library,2019,,50.155619,-5.231585
+Cumberland,Boltongate Book Drop,The Bell Institute,Wigton,Cumbria,Cumberland,CA7 1DA,Static Library,2019,,54.756516,-3.198436
+Cumberland,Burgh by Sands Book Drop,Burgh by Sands Village Hall,Carlisle ,Cumbria,Cumberland,CA5 6BD,Static Library,2019,,54.924377,-3.050738
+Cumberland,Thursby Book Drop,Thursby Parish Hall,Carlisle,Cumbria,Cumberland,CA5 6PQ,Static Library,2019,,54.841685,-3.054303
+Dudley,Pensnett Library Link,"High Oak Surgery, 120 High Street",Pensnett,West Midlands,Dudley,DY5 4DS,Static Library,2019,,52.500644,-2.131056
+Nottingham,Wells Road library,"Wells Road Centre, The Wells Road",Nottingham,Nottinghamshire,Nottingham,NG3 3AA,Static Library,2019,,52.973261,-1.124032
+Plymouth,West Park Library,423 - 425 Crownhill Road,Plymouth,Devon,Plymouth,PL5 2LJ,Static Library,2019,,50.412572,-4.166835
+Richmond Upon Thames,Heathfield Library Access Point,"Whitton Community Centre, Percy Road",Whitton,Middlesex,Richmond Upon Thames,TW2 6JL,Static Library,2019,2011,51.44496,-0.361741
+Somerset,Highbridge,"Alpha House, Market Street",Highbridge,Somerset,Somerset,TA9 3BP,Static Library,2019,,51.219508,-2.974339
+Somerset,Sunningdale,"Monmouth Hall, Monmouth Road",Yeovil,Somerset,Somerset,BA21 5NP,Static Library,2019,,50.953223,-2.618469
+Stoke-on-Trent,Blurton Hub (Book Collection),"Ingestre Square, Finstock Avenue",Stoke-on-Trent,Staffordshire ,Stoke-on-Trent,ST3 3JT,Static Library,2019,,52.972692,-2.158071
+City of London,Small Business Research + Enterprise Centre,Aldermanbury,London,Greater London,City of London,EC2V 7HH,Static Library,2020,,51.515568,-0.091634
+Gateshead,Ryton,"Ryton Methodist Church, Grange Road", Ryton,Tyne and Wear,Gateshead,NE40 3LT,Static Library,2020,,54.972392,-1.763426
+Hampshire,Blackfield,167 Hampton Parade,Southampton,Hampshire,Hampshire,SO45 1XA,Static Library,2020,,50.818949,-1.373442
+Hampshire,Horndean,12 Fiveheads Road,Horndean,Hampshire,Hampshire,PO8 9NW,Static Library,2020,,50.914035,-1.000907
+Harrow,Gayton,5 St. John's Road,Harrow,Greater London ,Harrow,HA1 2EE,Static Library,2020,,51.5807,-0.330494
+North Northamptonshire,Higham Ferrers,Midland Road,Higham Ferrers,Northamptonshire,North Northamptonshire,NN10 8DN,Static Library,2020,,52.307866,-0.590207
+Sandwell,Beeches Express,160 Beeches Road,West Bromwich,West Midlands,Sandwell,B70 6HQ,Static Library,2020,,52.516745,-1.984197
+Sandwell,Bright Futures Express, Huntingdon Road,West Bromwich,West Midlands,Sandwell,B71 2RP,Static Library,2020,,52.536506,-2.006438
+Sandwell,Galton Valley Express,Great Arthur Street,Smethwick,West Midlands,Sandwell,B66 1DH,Static Library,2020,,52.499833,-1.973995
+Sandwell,Priory Express,"Priory Children's Centre, Dorsett Road ",Wednesbury,West Midlands,Sandwell,WS10 0JJ,Static Library,2020,,52.551626,-1.986162
+Sandwell,Valley Road Express,78 Valley Road,Cradley Heath,West Midlands,Sandwell,B64 7LR,Static Library,2020,2016,52.466543,-2.07087
+Suffolk,West Suffolk House (Library Point),"West Suffolk House, Western Way ",Bury St. Edmunds,Suffolk,Suffolk,IP33 3YU,Static Library,2020,,52.25149,0.697034
+Swindon,Covingham Library,"St. Paul's Drive, Covingham",Swindon,Wiltshire,Swindon,SN3 5BY,Static Library,2020,1971,51.564417,-1.731592
+Westmorland and Furness,Bolton Book Drop,Bolton Memorial Hall,Appleby-in-Westmorland,Cumbria,Westmorland and Furness,CA16 6AX,Static Library,2020,,54.605606,-2.565348
+Westmorland and Furness,Tebay Book Drop,"St. James Church, Church Street",Tebay,Cumbria,Westmorland and Furness,CA10 3UY,Static Library,2020,,54.433311,-2.59277
+Calderdale,Greetland,Rochdale Road,Halifax,West Yorkshire,Calderdale,HX4 8JE,Static Library,2021,,53.688212,-1.86912
+Calderdale,Hipperholme,"Council Offices, Leeds Road",Halifax,West Yorkshire,Calderdale,HX3 8ND,Static Library,2021,,53.72576,-1.811382
+Calderdale,Mytholmroyd,Cragg Road,Hebden Bridge,West Yorkshire,Calderdale,HX7 5HR,Static Library,2021,,53.725449,-1.988976
+Calderdale,Ripponden,"Brig Royd, Halifax Road",Sowerby Bridge,West Yorkshire,Calderdale,HX6 4AW,Static Library,2021,,53.675865,-1.940093
+Calderdale,Shelf,"Shelf Village Hall, Halifax Road",Halifax,West Yorkshire,Calderdale,HX3 7NT,Static Library,2021,,53.7524,-1.816798
+Calderdale,Skircoat,Skircoat Green Road,Halifax,West Yorkshire,Calderdale,HX3 0LQ,Static Library,2021,,53.705535,-1.863325
+Calderdale,Southowram,Law Lane,Halifax,West Yorkshire,Calderdale,HX3 9QU,Static Library,2021,,53.710016,-1.832132
+Calderdale,Stainland,Stainland Road,Halifax,West Yorkshire,Calderdale,HX4 9AF,Static Library,2021,,53.673906,-1.871797
+Cumberland,Moorclose Library,Needham Drive,Workington,Cumbria,Cumberland,CA14 3SE,Static Library,2021,,54.627934,-3.551586
+Lancashire,Clayton-le-Moors,Pickup St,Accrington,Lancashire ,Lancashire,BB5 5NR,Static Library,2021,,53.775238,-2.384067
+North Somerset,Oldmixon Library Access Point,"Oldmixon Family Centre, Monkton Avenue",Weston-super-Mare,Somerset,North Somerset,BS24 9DA,Static Library,2021,2017,51.323189,-2.956756
+Sunderland,Hetton Centre,Welfare Road,Hetton,Tyne and Wear,Sunderland,DH5 9NE,Static Library,2021,,54.821539,-1.455515
+West Northamptonshire,Far Cotton,"The REC Centre, Towcester Road",Northampton,Northamptonshire,West Northamptonshire,NN4 8LG,Static Library,2021,,52.226162,-0.904121
+Windsor and Maidenhead,Eton,High Street,Eton,Berkshire,Windsor and Maidenhead,SL4 6AR,Static Library,2021,,51.489733,-0.609576
+Windsor and Maidenhead,Furze Platt Container,Shifford Cres ,Maidenhead SL6 7UA,Berkshire,Windsor and Maidenhead,SL6 7UA,Static Library,2021,,51.538919,-0.730828
+Windsor and Maidenhead,Holyport Container,Stroud Farm Rd,Holyport,Berkshire,Windsor and Maidenhead, SL6 2LH,Static Library,2021,,51.492303,-0.707694
+Windsor and Maidenhead,Woodlands Park Container,Manifold Way,White Waltham,Berkshire,Windsor and Maidenhead,SL6 3GW,Static Library,2021,,51.497464,-0.764365
+Bradford,Wrose Book Exchange,75 Wrose Road,Shipley,West Yorkshire,Bradford,BD18 1HX,Static Library,2022,,53.828995,-1.755922
+Cumberland,Cotehill Book Drop,"Cotehill Village Hall, Front Street",Carlisle,Cumbria,Cumberland,CA4 0EA,Static Library,2022,2017,54.843926,-2.827969
+Cumberland,Dalston Library Link,"St. Michael's Church, 1 The Square",Dalston ,Cumbria,Westmorland and Furness,CA5 7PJ,Static Library,2022,,54.841785,-2.983532
+Cumberland,Hallbankgate Library Link,Hallbankgate Hub Community Shop and Café,Brampton,Cumbria,Cumberland,CA8 2NJ,Static Library,2022,2017,54.929037,-2.65597
+Cumberland,Nicholforest Book Drop,"Nicholforest Village Hall, Warwicksland, Penton",Carlisle,Cumbria,Cumberland,CA6 5QD,Static Library,2022,,55.085487,-2.86466
+Cumberland,West Cumberland Hospital Book Drop,West Cumberland Hospital,Homewood Road,Whitehaven,Cumberland,CA28 8JG,Static Library,2022,,54.530059,-3.562598
+Hammersmith and Fulham,Hurlingham & Chelsea School & Community Library,Peterborough Road,London,Greater London,Hammersmith and Fulham,SW6 3ED,Static Library,2022,,51.467822,-0.1965
+Oxfordshire,Huntercombe Prison,Nuffield,Henley-on-Thames,Oxfordshire,Oxfordshire,RG9 5SB,Prison Library,2022,,51.58766,-1.018331
+Redbridge,Clayhall Library,1 Claybury Broadway,Ilford,Greater London,Redbridge,IG5 0LQ,Static Library,2022,,51.590112,0.049864
+Surrey,Beare Green Community Link,Beare Green Village Hall,Merebank Dorking,Surrey,Surrey,RH5 4RD,Static Library,2022,2013,51.179938,-0.318712
+Swindon,Grange Community Book Collection,"Grange Leisure Centre, Grange Drive ",Swindon,Wiltshire,Swindon,SN3 4JY,Static Library,2022,,51.579473,-1.745631
+Warwickshire,Camp Hill Community Library,"New Community Centre, Cedar Road",Nuneaton,Warwickshire,Warwickshire,CV10 9EB,Static Library,2022,,52.533046,-1.50695
+Wirral,Bromborough,Allport Lane,Bromborough,Merseyside,Wirral,CH62 7HR,Static Library,2022,,53.330497,-2.978476
+Wirral,Higher Bebington,Higher Bebington Road,Higher Bebington,Merseyside,Wirral,CH63 2PT,Static Library,2022,,53.353894,-3.020463
+Wirral,Hoylake,Market Street,Hoylake,Merseyside,Wirral,CH47 5AA,Static Library,2022,,53.395141,-3.174529
+Wirral,New Ferry,Grove Street Primary School,New Ferry,Merseyside,Wirral,CH62 5BA,Static Library,2022,,53.361155,-3.000621
+Wirral,Prenton,15-19 Dickens Avenue,Prenton,Merseyside,Wirral,CH43 0TQ,Static Library,2022,,53.367534,-3.056258
+Wirral,Woodchurch,"Ganneys Meadow EYC, New Hey Road",Birkenhead,Merseyside,Wirral,CH49 8HB,Static Library,2022,,53.37699,-3.082392
+Brighton and Hove,Mile Oak Library,"Portslade Academy, Chalky Road ",Portslade,East Sussex,Brighton and Hove,BN41 2WS,Static Library,2023,2013,50.850637,-0.225746
+Hartlepool,Mobile Community Hub,Middlegate ,Hartlepool ,,Hartlepool,TS24 0JD,Mobile Library,2023,,54.696045,-1.18383
+Hillingdon,Harlington Library,Pinkwell Lane,Hayes,Middlesex,Hillingdon,UB3 1PB,Static Library,2023,,51.497112,-0.436501
+Norfolk,Mobile Library AE10 BTF,"Libraries HQ, Whitegates, Norwich Road",Hethersett,Norfolk,Norfolk,NR9 3DN,Mobile Library,2023,,52.596706,1.179818
+Norfolk,Mobile Library AV10 GJK,"Libraries HQ, Whitegates, Norwich Road",Hethersett,Norfolk,Norfolk,NR9 3DN,Mobile Library,2023,,52.596706,1.179818
+North Lincolnshire,Park Library,Avenue Vivian,Scunthorpe,North Lincolnshire,North Lincolnshire,DN15 8LG,Static Library,2023,1966,53.597065,-0.668001
+Northumberland,Hirst Library,"Hirst Welfare Centre, Alexandra Road",Ashington,Northumberland,Northumberland,NE63 9RX,Static Library,2023,,55.175081,-1.547569
+Slough,Chalvey Satellite Library,"Chalvey Community Centre, The Green",Slough,Berkshire,Slough,SL1 2SP,Static Library,2023,2011,51.50606,-0.610145
+Slough,Colnbrook Satellite Library,Vicarage Way Childrens Centre,Slough,Berkshire,Slough,SL3 0JY,Static Library,2023,2011,51.484887,-0.521449
+Slough,Wexham Satellite Library,Wexham Road ,Slough,Berkshire,Slough,SL2 5JW,Static Library,2023,2012,51.516211,-0.579267
+Southwark,East Street Library,168-170 Old Kent Road,Southwark,Surrey,Southwark,SE1  5TY,Static Library,2023,1967,51.490441,-0.081102
+Southwark,Kingswood Order and Collect Library,"Kingswood House, 31 Seeley Drive",Southwark,Surrey,Southwark,SE21 8QR,Static Library,2023,,51.430527,-0.080348
+Sunderland,Local History Library @ ETR,64 Fawcett St,Sunderland,Tyne and Wear,Sunderland,SR1 1BB,Static Local History Library,2023,2020,54.907332,-1.382257
+Surrey,Old Woking Community Link,"Old Woking Community Centre, Sundridge Road",Woking,Surrey,Surrey,GU22 9AT,Static Library,2023,2014,51.306261,-0.550235
+Westmorland and Furness,Holme Book Drop,"Holme Parish Hall, Duke Street",Holme,Cumbria,Westmorland and Furness,LA6 1PY,Static Library,2023,,54.202815,-2.733088
+St. Helens,Billinge Library,Main Street,Billinge,Merseyside,St. Helens,WN5 7HA,Static Library,2024,,53.499526,-2.70656
+St. Helens,Garswood Library,School Lane,Garswood,Merseyside,St. Helens,WN4 0TT,Static Library,2024,,53.487817,-2.673404
+St. Helens,Parr Library,Fleet Lane,Parr,Merseyside,St. Helens,WA9 1SY,Static Library,2024,,53.449738,-2.706635
+St. Helens,Peter Street Library,Peter Street,St. Helens,Merseyside,St. Helens,WA10 2EQ,Static Library,2024,,53.454488,-2.747359
+St. Helens,Rainhill Library,View Road,Rainhill,Merseyside,St. Helens,L35 0LE,Static Library,2024,,53.414665,-2.764881
+Stockport,Heritage,Wellington Road South,Stockport,Greater Manchester,Stockport,SK1 3RS,Static Local History Library,2024,,53.408172,-2.16066

@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>England Library Closures – 2010</title>
+
+
+  <link rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+
+  <style>
+    html, body { height:100%; margin:0; }
+    #map { width:100%; height:100%; }
+
+    /* -------- Title (top‑left) ----------------------------------- */
+    .map-title {
+      position: absolute;          
+      top: 12px;                  
+      left: 12px;                 
+      background: rgba(255,255,255,0.85); 
+      padding: 6px 10px;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 1.1rem;
+      font-weight: bold;
+      color: #333;
+      border-radius: 4px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+      z-index: 1000;              
+    }
+
+        /* -------- Controls (top‑right) ------------------------------- */
+    .controls {
+      position: absolute;
+      top: 12px;
+      right: 12px;
+      background: rgba(255,255,255,0.9);
+      padding: 10px 12px;
+      border-radius: 4px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.95rem;
+      z-index: 1000;
+    }
+
+    .controls label {
+      display: block;
+      margin-bottom: 6px;
+    }
+
+    .controls input[type="range"] {
+      width: 180px;
+    }
+
+    .controls input[type="checkbox"] {
+      margin-right: 4px;
+    }
+
+    .year-display {
+      font-weight: bold;
+      margin-left: 4px;
+    }
+
+        /* -------- Info panel (bottom‑left) --------------------------- */
+    .info-panel {
+      position: absolute;
+      bottom: 12px;
+      left: 12px;
+      background: rgba(255,255,255,0.9);
+      padding: 10px 14px;
+      border-radius: 4px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 0.95rem;
+      line-height: 1.4;
+      max-width: 300px;
+      z-index: 1000;
+    }
+
+    .info-panel p.disclaimer {
+  margin-top: 0.6em;          
+  font-size: 0.85rem;         
+  line-height: 1.4;
+  color: #555;                
+}
+.info-panel p.disclaimer a {
+  color: #0066cc;             
+  text-decoration: underline;
+}
+  </style>
+</head>
+
+<body>
+<div id="map"></div>
+
+<!-- Title -->
+<div class="map-title">Library Closures in England Since 2010</div>
+
+<!-- Slider + Checkbox -->
+<div class="controls">
+  <label>
+    Year:
+    <span class="year-display" id="yearValue">2010</span>
+    <input type="range" id="yearSlider"
+           min="2010" max="2024" step="1" value="2010">
+  </label>
+  <label>
+    <input type="checkbox" id="exactMatch">
+    Only show closures in selected year
+  </label>
+</div>
+
+<!-- Dynamic info panel (bottom‑left) -->
+<div class="info-panel" id="infoPanel">
+  Loading data…
+</div>
+
+<!-- 3️⃣ Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<!-- 5️⃣ PapaParse – CSV parser -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+
+<script>
+
+const UK_BOUNDS = [
+  [49.9, -8.2],   // south‑west (roughly the Isles of Scilly / Channel Islands)
+  [60.9,  2.0]    // north‑east (Shetland islands)
+];
+
+
+/* ---------- 1️⃣ Initialise the map ---------- */
+const map = L.map('map')
+.setView([55.3781, -3.4360], 6)
+  .setMaxBounds(UK_BOUNDS)                 
+  .setMinZoom(5)                           
+  .setMaxZoom(12);   
+
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; OpenStreetMap contributors',
+  maxZoom: 19,
+  noWrap: true
+}).addTo(map);
+
+
+let allRows = [];               
+const markerLayer = L.layerGroup().addTo(map); 
+
+const yearSlider   = document.getElementById('yearSlider');
+const yearDisplay  = document.getElementById('yearValue');
+const exactMatchCB = document.getElementById('exactMatch');
+
+
+function createMarker(row) {
+  const popup = `
+    <strong>${row.Name || 'Unnamed library'}</strong> 
+    Postcode: ${row.Postcode || 'N/A'} 
+    Closed: ${row.Year_Permanently_Closed || '2010'}
+  `;
+
+  return L.circleMarker([row.lat, row.lon], {
+    radius: 5,
+    fillColor: '#ff6600',
+    color: '#ff6600',
+    weight: 1,
+    opacity: 1,
+    fillOpacity: 0.8
+  }).bindPopup(popup);
+}
+
+function updateInfoPanel(count) {
+  const selectedYear = parseInt(yearSlider.value, 10);
+  const exactMatch   = exactMatchCB.checked;
+
+  const mainSentence = exactMatch
+    ? `In ${selectedYear} there were ${count} permanent library closure${count !== 1 ? 's' : ''}.`
+    : selectedYear === 2010
+      ? `In 2010 there were ${count} permanent library closure${count !== 1 ? 's' : ''}.`
+      : `From 2010‑${selectedYear} there were ${count} permanent library closure${count !== 1 ? 's' : ''}.`;
+
+  const disclaimerHTML = `
+    <p class="disclaimer">
+      This data is taken from the
+      <a href="https://www.artscouncil.org.uk/supporting-arts-museums-and-libraries/supporting-libraries#:%7E:text=Basic%20Dataset%20for%20Libraries&text=The%20Libraries%20Basic%20Dataset%20is,the%20number%20of%20mobile%20libraries"
+         target="_blank" rel="noopener noreferrer">
+        Arts Council Dataset
+      </a>.
+      It is accurate as of May 2024. Due to data inconsistencies, not all 348 libraries that had been marked as permanently closed could be mapped - we could not retrieve correct geolocation data.
+    </p>`;
+
+  infoPanel.innerHTML = `<p>${mainSentence}</p>${disclaimerHTML}`;
+}
+
+
+
+function updateMarkers() {
+  const selectedYear = parseInt(yearSlider.value, 10);
+  const exactMatch   = exactMatchCB.checked;
+
+  // Update the year number shown next to the slider
+  yearDisplay.textContent = selectedYear;
+
+  // Clear the current layer
+  markerLayer.clearLayers();
+
+  // Filter rows according to the chosen mode
+  const filtered = allRows.filter(row => {
+    const yr = parseInt(row.Year_Permanently_Closed, 10);
+    if (isNaN(yr)) return false;          // safety guard
+
+    if (exactMatch) {
+      return yr === selectedYear;         // only this year
+    } else {
+      return yr <= selectedYear;          // cumulative up to this year
+    }
+  });
+
+  // Add a marker for each filtered row
+  filtered.forEach(row => markerLayer.addLayer(createMarker(row)));
+
+    updateInfoPanel(filtered.length);
+}
+
+
+/* ---------- 3️⃣ Load CSV & add markers ---------- */
+Papa.parse('libraries_2010_geo.csv', {
+  download: true,
+  header: true,
+  skipEmptyLines: true,
+  dynamicTyping: true,
+  complete: function(res) {
+    // Keep only rows that have valid coordinates
+    allRows = res.data.filter(r => r.lat && r.lon);
+    // Initial draw – show everything (cumulative mode, slider at 2010)
+    updateMarkers();
+  },
+  error: function(err) {
+    console.error('CSV load error', err);
+    alert('Could not load libraries_2010_geo.csv – check the console.');
+  }
+});
+
+yearSlider.addEventListener('input', updateMarkers);
+exactMatchCB.addEventListener('change', updateMarkers);
+</script>
+</body>
+</html>
