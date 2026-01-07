@@ -8,85 +8,137 @@
   <link rel="stylesheet"
         href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
 
-  <style>
-    html, body { height:100%; margin:0; }
-    #map { width:100%; height:100%; }
+<style>
+/* --------------------------------------------------------------
+   Base layout – works on desktop / large screens
+   -------------------------------------------------------------- */
+html, body { height:100%; margin:0; }
+#map { width:100%; height:100%; }
 
-    /* -------- Title (top‑left) ----------------------------------- */
-    .map-title {
-      position: absolute;          
-      top: 12px;                  
-      left: 12px;                 
-      background: rgba(255,255,255,0.85); 
-      padding: 6px 10px;
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 1.1rem;
-      font-weight: bold;
-      color: #333;
-      border-radius: 4px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-      z-index: 1000;              
-    }
+/* -------- Title (top‑left) ----------------------------------- */
+.map-title {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  background: rgba(255,255,255,0.85);
+  padding: 6px 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #333;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  z-index: 1000;
+}
 
-        /* -------- Controls (top‑right) ------------------------------- */
-    .controls {
-      position: absolute;
-      top: 12px;
-      right: 12px;
-      background: rgba(255,255,255,0.9);
-      padding: 10px 12px;
-      border-radius: 4px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 0.95rem;
-      z-index: 1000;
-    }
-
-    .controls label {
-      display: block;
-      margin-bottom: 6px;
-    }
-
-    .controls input[type="range"] {
-      width: 180px;
-    }
-
-    .controls input[type="checkbox"] {
-      margin-right: 4px;
-    }
-
-    .year-display {
-      font-weight: bold;
-      margin-left: 4px;
-    }
-
-        /* -------- Info panel (bottom‑left) --------------------------- */
-    .info-panel {
-      position: absolute;
-      bottom: 12px;
-      left: 12px;
-      background: rgba(255,255,255,0.9);
-      padding: 10px 14px;
-      border-radius: 4px;
-      box-shadow: 0 2px 6px rgba(0,0,0,0.15);
-      font-family: Arial, Helvetica, sans-serif;
-      font-size: 0.95rem;
-      line-height: 1.4;
-      max-width: 300px;
-      z-index: 1000;
-    }
-
-    .info-panel p.disclaimer {
-  margin-top: 0.6em;          
-  font-size: 0.85rem;         
+/* -------- Controls (top‑right) ------------------------------- */
+.controls {
+  position: absolute;
+  top: 12px;
+  right: 12px;
+  background: rgba(255,255,255,0.9);
+  padding: 10px 12px;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.95rem;
   line-height: 1.4;
-  color: #555;                
+  z-index: 1000;
+}
+.controls label { display: block; margin-bottom: 6px; }
+.controls input[type="range"] { width: 180px; }
+.controls input[type="checkbox"] { margin-right: 4px; }
+.year-display { font-weight: bold; margin-left: 4px; }
+
+/* -------- Info panel (bottom‑left) --------------------------- */
+.info-panel {
+  position: absolute;
+  bottom: 12px;
+  left: 12px;
+  background: rgba(255,255,255,0.9);
+  padding: 10px 14px;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  max-width: 300px;
+  z-index: 1000;
+}
+.info-panel p.disclaimer {
+  margin-top: 0.6em;
+  font-size: 0.85rem;
+  line-height: 1.4;
+  color: #555;
 }
 .info-panel p.disclaimer a {
-  color: #0066cc;             
+  color: #0066cc;
   text-decoration: underline;
 }
-  </style>
+
+/* --------------------------------------------------------------
+   RESPONSIVE ADJUSTMENTS (mobile / tablet)
+   -------------------------------------------------------------- */
+/* --------------------------------------------------------------
+   Mobile‑friendly range slider (inside @media max‑width:600px)
+   -------------------------------------------------------------- */
+@media (max-width: 600px) {
+  /* 1️⃣ Make the slider fill the width of its container */
+  .controls input[type="range"] {
+    width: 100%;               /* already set, but reinforced here */
+    margin: 8px 0;             /* give a little vertical breathing room */
+  }
+
+  /* 2️⃣ Enlarge the track (the line) */
+  .controls input[type="range"]::-webkit-slider-runnable-track {
+    height: 8px;               /* thicker line for easier tapping */
+    background: #ddd;
+    border-radius: 4px;
+  }
+  .controls input[type="range"]::-moz-range-track {
+    height: 8px;
+    background: #ddd;
+    border-radius: 4px;
+  }
+
+  /* 3️⃣ Enlarge the thumb (the draggable knob) */
+  .controls input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    height: 58px;              /* bigger than default */
+    width: 28px;
+    margin-top: -10px;         /* center thumb on the thicker track */
+    background: #ff6600;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0 0 2px rgba(0,0,0,0.3);
+  }
+  .controls input[type="range"]::-moz-range-thumb {
+    height: 28px;
+    width: 28px;
+    background: #ff6600;
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0 0 2px rgba(0,0,0,0.3);
+  }
+
+  /* 4️⃣ Ensure the control box has enough vertical padding so the thumb isn’t cut off */
+  .controls {
+    padding-top: 14px;
+    padding-bottom: 14px;
+  }
+}
+/* --------------------------------------------------------------
+   HIGH‑DPI / Retina tweaks (optional but nice)
+   -------------------------------------------------------------- */
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .map-title,
+  .controls,
+  .info-panel {
+    /* Slightly sharper borders on retina screens */
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+  }
+}
+</style>
 </head>
 
 <body>
